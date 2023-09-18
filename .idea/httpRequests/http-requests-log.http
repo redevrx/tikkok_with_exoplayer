@@ -1,0 +1,9 @@
+GET https://jsonplaceholder.typicode.com/posts
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-07-21T200654.200.json
+
+###
+
